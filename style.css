@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 400;
+
+}
+.name-highlight{
+    color: orange;
+}
